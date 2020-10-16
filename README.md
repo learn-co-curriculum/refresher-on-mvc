@@ -147,6 +147,4 @@ project, his opinion is the one implemented.
 - While Rails emulates the majority of an MVC structure, it is not a perfect
   "textbook" match &mdash; _by design_!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/refresher-on-mvc'>Refresher On MVC</a> on Learn.co and start learning to code for free.</p>
-
 [software_architect]: https://en.wikipedia.org/wiki/Software_architecture
